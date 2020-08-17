@@ -2,12 +2,16 @@
   "name": "recko_assignment",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://api.coindesk.com",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "moment": "^2.27.0",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-google-charts": "^3.0.15",
     "react-scripts": "3.4.3"
   },
   "scripts": {
